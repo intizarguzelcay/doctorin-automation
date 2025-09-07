@@ -3,13 +3,17 @@
 ---
 
 🚀 Proje Hakkında
-Bu proje, Doctorin platformunun önemli iş akışlarını  test etmek için tasarlanmış bir otomasyon test projesidir. Amacımız, randevu oluşturma, tamamlama ve silme süreçlerinin doğru ve hatasız çalıştığını doğrulamaktır. Proje, sektör standardı araçlar olan Selenium, Java ve Cucumber kullanılarak geliştirilmiştir.
+
+Bu proje, Doctorin platformunun önemli iş akışlarını otomatik olarak test etmek için tasarlanmış bir otomasyon test projesidir. Amacımız, randevu oluşturma, tamamlama ve silme süreçlerinin doğru ve hatasız çalıştığını doğrulamaktır. Proje, sektör standardı araçlar olan Selenium, Java ve Cucumber kullanılarak geliştirilmiştir ve Davranış Odaklı Geliştirme (BDD) metodolojisini benimser.
 
 Doctorin, sağlık ve yaşam hizmeti sunan kişi ve kurumların operasyonlarını tek bir merkezden yönetebilmelerini sağlayan kapsamlı bir platformdur. Platform, hasta kaydı, randevu yönetimi, finansal süreçler ve e-Nabız gibi resmi entegrasyonları kolaylaştırır.
+
+Test Edilen Müşteri: Nişantaşı Klinik
 
 ---
 
 🛠️ Test Ortamı
+
 URL: https://testapp.doctorin.app
 
 Müşteri: "Nişantaşı Klinik"
@@ -104,3 +108,4 @@ mvn test
 Testlerinizin başarıyla çalıştığını konsolda göreceksiniz. 🎉
 
 ---
+
